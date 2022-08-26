@@ -1,0 +1,16 @@
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\bin\Debug\net5.0\CoursePractices.exe
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\bin\Debug\net5.0\CoursePractices.deps.json
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\bin\Debug\net5.0\CoursePractices.runtimeconfig.json
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\bin\Debug\net5.0\CoursePractices.runtimeconfig.dev.json
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\bin\Debug\net5.0\CoursePractices.dll
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\bin\Debug\net5.0\ref\CoursePractices.dll
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\bin\Debug\net5.0\CoursePractices.pdb
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\obj\Debug\net5.0\CoursePractices.csproj.AssemblyReference.cache
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\obj\Debug\net5.0\CoursePractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\obj\Debug\net5.0\CoursePractices.AssemblyInfoInputs.cache
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\obj\Debug\net5.0\CoursePractices.AssemblyInfo.cs
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\obj\Debug\net5.0\CoursePractices.csproj.CoreCompileInputs.cache
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\obj\Debug\net5.0\CoursePractices.dll
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\obj\Debug\net5.0\ref\CoursePractices.dll
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\obj\Debug\net5.0\CoursePractices.pdb
+C:\Users\mi\RiderProjects\CoursePractices\CoursePractices\obj\Debug\net5.0\CoursePractices.genruntimeconfig.cache
