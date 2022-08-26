@@ -1,0 +1,5 @@
+C:\Users\mi\RiderProjects\CoursePractices\Interface Segregation Principle\obj\Debug\net5.0\Interface Segregation Principle.csproj.AssemblyReference.cache
+C:\Users\mi\RiderProjects\CoursePractices\Interface Segregation Principle\obj\Debug\net5.0\Interface Segregation Principle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\RiderProjects\CoursePractices\Interface Segregation Principle\obj\Debug\net5.0\Interface Segregation Principle.AssemblyInfoInputs.cache
+C:\Users\mi\RiderProjects\CoursePractices\Interface Segregation Principle\obj\Debug\net5.0\Interface Segregation Principle.AssemblyInfo.cs
+C:\Users\mi\RiderProjects\CoursePractices\Interface Segregation Principle\obj\Debug\net5.0\Interface Segregation Principle.csproj.CoreCompileInputs.cache

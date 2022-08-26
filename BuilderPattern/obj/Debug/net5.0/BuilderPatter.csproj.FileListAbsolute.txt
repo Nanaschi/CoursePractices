@@ -1,0 +1,16 @@
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\bin\Debug\net5.0\BuilderPatter.exe
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\bin\Debug\net5.0\BuilderPatter.deps.json
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\bin\Debug\net5.0\BuilderPatter.runtimeconfig.json
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\bin\Debug\net5.0\BuilderPatter.runtimeconfig.dev.json
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\bin\Debug\net5.0\BuilderPatter.dll
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\bin\Debug\net5.0\ref\BuilderPatter.dll
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\bin\Debug\net5.0\BuilderPatter.pdb
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\obj\Debug\net5.0\BuilderPatter.csproj.AssemblyReference.cache
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\obj\Debug\net5.0\BuilderPatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\obj\Debug\net5.0\BuilderPatter.AssemblyInfoInputs.cache
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\obj\Debug\net5.0\BuilderPatter.AssemblyInfo.cs
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\obj\Debug\net5.0\BuilderPatter.csproj.CoreCompileInputs.cache
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\obj\Debug\net5.0\BuilderPatter.dll
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\obj\Debug\net5.0\ref\BuilderPatter.dll
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\obj\Debug\net5.0\BuilderPatter.pdb
+C:\Users\mi\RiderProjects\CoursePractices\BuilderPatter\obj\Debug\net5.0\BuilderPatter.genruntimeconfig.cache
