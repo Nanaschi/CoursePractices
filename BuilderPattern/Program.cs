@@ -92,7 +92,7 @@ namespace DotNetDesignPatternDemos.Creational.Builder
 
   public class Demo
   {
-    static void Main(string[] args)
+    static void Main1(string[] args)
     {
       {
         // if we want to build a simple HTML paragraph...
@@ -139,7 +139,7 @@ namespace DotNetDesignPatternDemos.Creational.Builder
       
       // with implicit operator
       {
-        var root = HtmlElement
+        HtmlBuilder root = HtmlElement
           .Create("ul")
           .AddChildFluent("li", "hello")
           .AddChildFluent("li", "world");
